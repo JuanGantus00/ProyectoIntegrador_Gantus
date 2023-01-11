@@ -1,0 +1,19 @@
+.row{
+    background-color: aqua;
+}
+#texto{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 12px;
+    float: right;
+}
+
+h1{
+    font-size:25px;
+    font-weight: bold;
+    text-decoration: underline;
+    
+}
+h3{
+    font-size: 18px;
+    font-style: italic;
+}
