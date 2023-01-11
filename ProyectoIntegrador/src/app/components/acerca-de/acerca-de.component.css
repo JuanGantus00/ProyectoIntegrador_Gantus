@@ -1,20 +1,24 @@
-#titulo{
+.row{
+    background-color: black;
+}
+#textos{
+    color:aliceblue;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 25px;
+    margin-top: 12px;
+    font-size: 18px;
+}
+
+h1{
+    color: lightskyblue;
     text-decoration: underline;
     font-weight: bold;
 }
-div{
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 15px;
-    font-style: normal;
-}
-.row{
-    padding: 10px;
-}
-div{
-    background-color: rgb(202, 202, 201);
-    text-align: center;
+
+h2{
+    font-size:20px;
+    text-decoration: underline;
+    color: lightskyblue;
+
 }
 @media(min-width:576px) {
     #fotoperfil{

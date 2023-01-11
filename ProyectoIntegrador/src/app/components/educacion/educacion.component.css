@@ -1,17 +1,24 @@
 .row{
-    background-color: darksalmon;
+    background-color: black;
 }
-#texto{
+#textos{
+    color:aliceblue;
     font-family: 'Times New Roman', Times, serif;
+    margin-top: 12px;
+    font-size: 18px;
 }
 
 h1{
-    font-size:25px;
-    font-weight: bold;
+    color: lightskyblue;
     text-decoration: underline;
-    
+    font-weight: bold;
+}
+h2{
+    font-size:20px;
+    text-decoration: underline;
+    color: lightskyblue;
 }
 h3{
-    font-size: 18px;
+    font-size: 15px;
     font-style: italic;
 }

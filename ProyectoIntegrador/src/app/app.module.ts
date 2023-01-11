@@ -11,6 +11,7 @@ import { AcercaDeComponent } from './components/acerca-de/acerca-de.component';
 import { ExperienciaComponent } from './components/experiencia/experiencia.component';
 import { EducacionComponent } from './components/educacion/educacion.component';
 import { HYSskillsComponent } from './components/hysskills/hysskills.component';
+import { ProyectosComponent } from './components/proyectos/proyectos.component';
 
 
 @NgModule({
@@ -24,6 +25,7 @@ import { HYSskillsComponent } from './components/hysskills/hysskills.component';
     ExperienciaComponent,
     EducacionComponent,
     HYSskillsComponent,
+    ProyectosComponent,
 
   ],
   imports: [

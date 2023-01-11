@@ -7,17 +7,22 @@
     margin-top: 12px;
     font-size: 18px;
 }
-h1{
+
+ h3{
+    text-decoration: underline;
+ }
+
+ h1{
     color: lightskyblue;
     text-decoration: underline;
     font-weight: bold;
+ }
+.parte3{
+    padding: 10px;
+
 }
-h2{
-    font-size:20px;
-    text-decoration: underline;
-    color: lightskyblue;
-}
-h3{
-    font-size: 18px;
-    font-style: italic;
+
+.parte1, .parte2{
+    text-align: justify;
+    display: inline-block;
 }

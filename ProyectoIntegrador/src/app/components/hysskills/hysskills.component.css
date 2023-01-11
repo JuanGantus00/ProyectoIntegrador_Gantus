@@ -1,8 +1,8 @@
 .row{
     background-color: black;
-
 }
-
 h1{
     color: lightskyblue;
+    text-decoration: underline;
+    font-weight: bold;
 }
